@@ -1,0 +1,3 @@
+/mnt/c/Users/JOHN/Desktop/My Project/C_Project/build/CMakeFiles/a.out.dir
+/mnt/c/Users/JOHN/Desktop/My Project/C_Project/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/JOHN/Desktop/My Project/C_Project/build/CMakeFiles/rebuild_cache.dir
